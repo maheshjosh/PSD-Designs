@@ -1,0 +1,29 @@
+Bootstrap classes
+
+1 Image:- 
+	Responsive images = .img-fluid  max width:100%; height:auto;
+
+	border-radius utilities = .img-thumbnail
+	Aligning images 
+		text center = .text-center
+		 block-level images can be centered = .rounded mx-auto d-block
+		float right with border-radius = .rounded float-right
+		 = .rounded-circle
+
+2 Table:-
+	<table class="table">
+
+	table boder = .table-bordered
+	add zebra-striping to any table row within the <tbody> = .table-striped 
+	<table class="table table-striped table-dark">
+
+	without border = .table-borderless
+	hower efect in tbody = .table-hover
+	 = .table-sm
+	for responsive table <div class> then  <table> = .table-responsive-md	
+
+3. Jumbotron:-  a big grey box for calling extra attention to some special content or information
+
+	.jumbotron .jumbotron-fluid
+
+
